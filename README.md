@@ -8,4 +8,4 @@
 
 ### 3. JR_2015-12-04_truncated2.mat
 - The publicly accessible dataset [1] consists of a 96-channel Utah array recording from premotor cortex of a rhesus monkey performing a center-out-and-back task.
-- [1] V.~Gilja, P.~Nuyujukian, C.~A. Chestek, J.~P. Cunningham, B.~M. Yu, J.~M. Fan, M.~M. Churchland, M.~T. Kaufman, J.~C. Kao, S.~I. Ryu \emph{et~al.}, ``A high-performance neural prosthesis enabled by control algorithm design,'' \emph{Nature neuroscience}, vol.~15, no.~12, pp. 1752--1757, 2012.
+- [1] V. Gilja, P. Nuyujukian, C. A. Chestek, J. P. Cunningham, B. M. Yu, J. M. Fan, M. M. Churchland, M. T. Kaufman, J. C. Kao, S. I. Ryu et~al., A high-performance neural prosthesis enabled by control algorithm design, Nature neuroscience, vol. 15, no. 12, pp. 1752--1757, 2012.
