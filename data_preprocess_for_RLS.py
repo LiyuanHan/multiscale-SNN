@@ -1,4 +1,10 @@
-##
+###############################################################################################################################
+# paper: Learning and Controlling Multi-scale Dynamics in Spiking Neural Networks using Recursive Least Square Modifications
+# author: Liyuan Han et. al.
+# Uploading Time: 2023.09.07
+# code availability: https://github.com/LiyuanHan/multiscale-SNN
+# file: data_preprocess_for_RLS.py, This code is for the preprocessing of the publicly accessible dataset.
+################################################################################################################################
 import numpy as np
 
 from tqdm.auto import trange
