@@ -14,7 +14,7 @@ clear all
 close all
 clc
 %%
-data = load('task-sine_popularity.mat');
+data = load('lor_data_4e-5-v2.mat');
 zx = data.zx;
 
 T = 5; %Total time in ms
