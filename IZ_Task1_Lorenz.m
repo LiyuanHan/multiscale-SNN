@@ -1,3 +1,13 @@
+%% *****************************************************************************************************************************
+% paper: Learning and Controlling Multi-scale Dynamics in Spiking Neural Networks using Recursive Least Square Modifications
+% author: Liyuan Han et. al.
+% Uploading Time: 2023.09.07
+% code availability: https://github.com/LiyuanHan/multiscale-SNN
+% file: IZ_Task1_Lorenz.m, This code is for Lorenz system task using Izhikevich neurons in our SNN model.
+% remark 1: This code is adapted from https://www.nature.com/articles/s41467-017-01827-3.
+% remark 2: If you cite this paper, please also cite the paper https://www.nature.com/articles/s41467-017-01827-3.
+% *******************************************************************************************************************************
+
 %% Forward process with Izhikevich Network
 clear all
 close all
