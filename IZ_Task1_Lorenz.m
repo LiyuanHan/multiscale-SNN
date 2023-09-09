@@ -13,11 +13,11 @@ clear all
 close all
 clc
 
-data = load('task-lorenz_1e-4_T50.mat') % final saved result : task-lorenz_1e-4_T50.mat
-zx = data.zx;
-
-% data = load('lor_data_4e-5-v2.mat')
+% data = load('task-lorenz_1e-4_T50.mat') % final saved result : task-lorenz_1e-4_T50.mat
 % zx = data.zx;
+
+data = load('lor_data_4e-5-v2.mat')
+zx = data.zx;
 
 T = 50;
 dt = 0.0001;
