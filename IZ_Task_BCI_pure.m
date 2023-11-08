@@ -25,8 +25,8 @@ color_set = {[0,148,255]/255, [169,169,169]/255,...
              [238,140,125]/255, [169,169,169]/255};
 
 %%
-T = 480; %Total time in ms
-dt = 0.025*time_win; %Integration time step in ms
+T = 480; %Total time 
+dt = 0.025*time_win; %Integration time step
 nt = round(T/dt); %Time steps
 N = 96; %Number of neurons
 % 
