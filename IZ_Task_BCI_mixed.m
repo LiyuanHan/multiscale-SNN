@@ -14,7 +14,8 @@ close all
 clc
 % data = load('target.mat')
 % zx = data.zx;
-data = load('data_for_BCI_RLS.mat') % final saved result : task-lorenz_1e-4_T50.mat
+% data = load('data_for_BCI_RLS.mat') 
+data = load('data_for_BCI_RLS-v2.mat') 
 data_t = linspace(0,48,length(data.position));
 time_win = 1;
 color_set = {[0,148,255]/255, [169,169,169]/255,...
