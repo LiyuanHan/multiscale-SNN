@@ -90,7 +90,7 @@ pp = 0.3; %sparsity
 if N > 96
     G = 3*10^4;
 else
-    G = 8*10^4;
+    G = 7.175*10^4;
 end
 % G = 8*10^4; %Gain on the static matrix with 1/sqrt(N) scaling weights.  Note that the units of this have to be in pA.
 % #neuron = 96, G = 8*10^4;
