@@ -12,7 +12,8 @@
 clear all
 close all
 clc
-data = load('data_for_BCI_RLS.mat') 
+% data = load('data_for_BCI_RLS.mat') 
+data = load('data_for_BCI_RLS-v2.mat') 
 data_t = linspace(0,48,length(data.position));
 color_set = {[0,148,255]/255, [169,169,169]/255,...
              [0,141,0]/255, [169,169,169]/255,...
